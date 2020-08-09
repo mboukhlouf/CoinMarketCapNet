@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
+    <Description>A wrapper in .NET for CoinMarketCap API</Description>
+    <Copyright>Copyright © Mohammed Boukhlouf 2020</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/M-Boukhlouf/CoinMarketCapNet</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/M-Boukhlouf/CoinMarketCapNet</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
